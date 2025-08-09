@@ -13,8 +13,7 @@ Each particle forms letters, cycles through colors in real-time, and interacts w
 ## Demo Video
 
 Watch the demo video directly on LinkedIn:
-
----
+[🔥 MICROSOFT in Motion — WinUI 3 on steroids! 🔥](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7359742802190045184?collapsed=1)
 
 ## How to run
 
